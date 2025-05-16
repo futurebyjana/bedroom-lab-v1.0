@@ -5,10 +5,13 @@ Live diagnostic loop: stress hormone spikes → pH drift → acne lesions (72 h 
 Dermatology still treats skin like an independent organ. We’re proving it’s a memory surface tied to HPA-axis lag.
 
 ## What’s here
-- **Lab-Memo-0000.pdf** – hypothesis, protocol, initial data (Week 0-1)  
-- **/data** – raw CSVs (cortisol, pH, lesion counts)  
-- **/code** – Jupyter notebook for time-series correlation & visualisation  
-- **NOW.md** – current mission, traction metrics, funding + collab asks
+* **Lab-Memo-0000.pdf** – hypotheses, peer-review map, roadmap  
+* **/data** – daily CSVs (DSI, pH, lesion counts)  
+* **/code** – analysis notebook for lag correlation  
+* **NOW.md** – mission, traction, gear wishlist
+
+* ## Traction (16 May 2025)
+* Substack intro: **630 reads, 5 email subs**  
 
 ## License
 MIT for code, CC-BY-4.0 for data. Fork hard, cite harder.
