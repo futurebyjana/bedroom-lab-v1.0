@@ -1,4 +1,4 @@
-# Lab Memo 0000 | Cairo Node v1.0  
+# Lab Memo 0000 | Cairo Node v1.0  1
 
 **Mission** Map the hidden time-lag between stress signals and skin eruptions—one operator, one bedroom lab, fully open-source.
 
